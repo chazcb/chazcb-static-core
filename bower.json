@@ -1,8 +1,17 @@
 {
-    "name": "chazcb-static-core",
-    "version": "0.0.1",
-    "main": ["scripts/main.js"],
-    "dependencies": {
-        "backbone-amd": ">=1.0.0"
-    }
+  "name": "chazcb-static-core",
+  "version": "0.0.0",
+  "main": [
+    "scripts/main.js"
+  ],
+  "dependencies": {
+    "backbone-amd": ">=1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
