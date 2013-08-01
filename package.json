@@ -1,6 +1,6 @@
 {
   "name": "chazcb-static-core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Core static files.",
   "main": "scripts/main.js",
   "scripts": {
