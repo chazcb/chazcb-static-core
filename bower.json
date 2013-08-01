@@ -1,6 +1,6 @@
 {
   "name": "chazcb-static-core",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "main": [
     "scripts/main.js"
   ],
@@ -12,6 +12,10 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "LICENCE",
+    "README.md",
+    "package.json",
+    "bower.json"
   ]
 }
