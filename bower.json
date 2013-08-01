@@ -4,7 +4,7 @@
     "scripts/main.js"
   ],
   "dependencies": {
-    "backbone-amd": ">=1.0.0"
+    "backbone.marionette": "1.0.4"
   },
   "ignore": [
     "**/.*",
